@@ -1,0 +1,69 @@
+.landing-body {
+    background-image: url('/Design Assets/gpc_hero_image@2x.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+.landing-main {
+    padding-top: 40vh;
+    height: 100vh;
+}
+.rapptr-logo {
+    width: 25vw;
+    height: auto;
+}
+.app-design-text {
+    padding-top: 5vh;
+    color: white;
+    font-size: 2vw;
+}
+.landing-part2 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: white;
+}
+.blue-H2 {
+    color: #2FCBFC;
+    font-size: 28px;
+}
+.landing-part3 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #2F2E2E;
+}
+.white-H2 {
+    color: white;
+    font-size: 28px;
+}
+.app-logo {
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 50px;
+    min-height: 50px;
+    object-fit: contain;
+    padding-top: 64px;
+    padding-bottom: 24px;
+}
+.white-H5 {
+    color: white;
+    font-size: 20px;
+}
+.landing-part4 {
+    background-color: white;
+    padding-top: 88px;
+    padding-bottom: 90px;
+}
+.subscribe-box {
+    padding-top: 45px;
+    height: 49px;
+    width: 441px;
+}
+.subscribe-input {
+    margin-left: 20px;
+}
+.subscribe-button {
+    background-color: #2F2E2E;
+    color: white;
+}
